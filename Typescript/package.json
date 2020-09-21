@@ -1,0 +1,28 @@
+{
+  "name": "projecteuler",
+  "version": "1.0.0",
+  "description": "Project Euler problemset solutions in typescript",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PitCoder/ProjectEuler/Typescript"
+  },
+  "keywords": [
+    "typescript",
+    "project-euler",
+    "mathematics",
+    "graph-theory",
+    "recursion",
+    "dynamic-programming",
+    "searching-algorithms"
+  ],
+  "author": "PitCoder",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
